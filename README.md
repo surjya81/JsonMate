@@ -1,5 +1,5 @@
 # JsonMate
-Store and modify json templates on the go
+Store and modify json templates on the go.
 
 The JSONMate application is a RESTful web service that enables users to modify JSON data based on predefined JSON templates. It uses a PostgreSQL database to store the JSON templates and supports CRUD (Create, Read, Update, Delete) operations on them.  
 
